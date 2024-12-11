@@ -1,0 +1,8 @@
+site_name: "lib-dotnet-exceptions"
+site_description: "This library contains filters and global exceptions for liquid .NET services"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

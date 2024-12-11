@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "lib-dotnet-exceptions"
+  description: "This library contains filters and global exceptions for liquid .NET services"
+  annotations:
+    github.com/project-slug: gainsway/lib-dotnet-exceptions
+    backstage.io/techdocs-ref: dir:.
+  tags: 
+    - dotnet
+spec:
+  type: library
+  lifecycle: experimental
+  owner: "group:default/engineering"
